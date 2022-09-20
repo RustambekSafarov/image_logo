@@ -13,7 +13,7 @@ class LoginPage extends StatelessWidget {
         home: Scaffold(
             body: Center(
       child: Image.asset(
-        'img/logo.png',
+        'img/facebook.png',
         width: 200,
         height: 200,
       ),
